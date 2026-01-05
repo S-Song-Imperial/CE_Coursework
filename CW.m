@@ -1,8 +1,8 @@
 %
 % Readme:
 % 
-% These code run in the MATLAB R2025b environment. This document is 
-% a collection of separate codes used to solve all questions in part B.
+% These code run in the MATLAB R2025b environment. This code file is 
+% a collection of separate code used to solve all questions in part B.
 % 
 % Thus, please do not run the entire code file directly.
 % 
@@ -481,4 +481,5 @@ plot(t,uvec,'m-','LineWidth',4); grid on;
 xlabel('$t$','Interpreter','latex');
 ylabel('$u(t)$','Interpreter','latex');
 ylim([-16000 16000])
+
 
